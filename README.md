@@ -30,8 +30,8 @@ applications; trusted resource for team leads and cross-team developers.
 <img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=145&height=40&lines=Stats+%F0%9F%93%8A" alt="Stats" />
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmulenga&theme=calm" alt="GitHub stats" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmulenga&theme=calm" alt="Top languages" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmulenga&theme=calm" alt="GitHub stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmulenga&theme=calm" alt="Top languages" width="49%" />
 </p>
 
 <br>
