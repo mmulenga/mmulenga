@@ -29,10 +29,7 @@ applications; trusted resource for team leads and cross-team developers.
 
 <picture><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=2688A8&center=false&vCenter=true&repeat=false&cursor=false&width=145&height=40&lines=Stats+%F0%9F%93%8A"><img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=145&height=40&lines=Stats+%F0%9F%93%8A" alt="Stats" /></picture>
 
-<p align="left">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmulenga&theme=solarized"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmulenga&theme=calm" alt="GitHub stats" width="37%" /></picture>
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmulenga&theme=solarized"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmulenga&theme=calm" alt="Top languages" width="37%" /></picture>
-</p>
+<p align="left"><picture><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmulenga&theme=solarized"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmulenga&theme=calm" alt="GitHub stats" width="37%" /></picture><picture><source media="(prefers-color-scheme: light)" srcset="https://singlecolorimage.com/get/fdf6e3/239x200"><img src="https://singlecolorimage.com/get/373f51/239x200" alt="" width="26%" /></picture><picture><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmulenga&theme=solarized"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmulenga&theme=calm" alt="Top languages" width="37%" /></picture></p>
 
 <br>
 
