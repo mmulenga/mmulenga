@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&pause=1000&color=D97757&center=false&vCenter=true&width=440&lines=Software+Engineer;Go+enthusiast;Tinkering..." alt="Typing SVG" />
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&pause=1000&color=2688A8&center=false&vCenter=true&width=440&lines=Software+Engineer;Go+enthusiast;Tinkering..."><img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&pause=1000&color=D97757&center=false&vCenter=true&width=440&lines=Software+Engineer;Go+enthusiast;Tinkering..." alt="Typing SVG" /></picture>
 </p>
 
 ```text
@@ -12,31 +12,31 @@ applications; trusted resource for team leads and cross-team developers.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=145&height=40&lines=Tech+%F0%9F%9B%A0%EF%B8%8F" alt="Tech" />
+<picture><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=2688A8&center=false&vCenter=true&repeat=false&cursor=false&width=145&height=40&lines=Tech+%F0%9F%9B%A0%EF%B8%8F"><img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=145&height=40&lines=Tech+%F0%9F%9B%A0%EF%B8%8F" alt="Tech" /></picture>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-1A1A1A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-1A1A1A?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Oracle_SQL-1A1A1A?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL" />
-  <img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/RabbitMQ-1A1A1A?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-EDE6DC?style=for-the-badge&logo=openjdk&logoColor=1A1A1A"><img src="https://img.shields.io/badge/Java-1A1A1A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-EDE6DC?style=for-the-badge&logo=python&logoColor=1A1A1A"><img src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Go-EDE6DC?style=for-the-badge&logo=go&logoColor=1A1A1A"><img src="https://img.shields.io/badge/Go-1A1A1A?style=for-the-badge&logo=go&logoColor=white" alt="Go" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-EDE6DC?style=for-the-badge&logo=postgresql&logoColor=1A1A1A"><img src="https://img.shields.io/badge/PostgreSQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Oracle_SQL-EDE6DC?style=for-the-badge&logo=oracle&logoColor=1A1A1A"><img src="https://img.shields.io/badge/Oracle_SQL-1A1A1A?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-EDE6DC?style=for-the-badge&logo=git&logoColor=1A1A1A"><img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-EDE6DC?style=for-the-badge&logo=docker&logoColor=1A1A1A"><img src="https://img.shields.io/badge/Docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/RabbitMQ-EDE6DC?style=for-the-badge&logo=rabbitmq&logoColor=1A1A1A"><img src="https://img.shields.io/badge/RabbitMQ-1A1A1A?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" /></picture>
 </p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=145&height=40&lines=Stats+%F0%9F%93%8A" alt="Stats" />
+<picture><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=2688A8&center=false&vCenter=true&repeat=false&cursor=false&width=145&height=40&lines=Stats+%F0%9F%93%8A"><img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=145&height=40&lines=Stats+%F0%9F%93%8A" alt="Stats" /></picture>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmulenga&theme=calm" alt="GitHub stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmulenga&theme=calm" alt="Top languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmulenga&theme=calm" alt="GitHub stats" width="37%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmulenga&theme=calm" alt="Top languages" width="37%" />
 </p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=180&height=40&lines=Connect+%F0%9F%A4%9D" alt="Connect" />
+<picture><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=2688A8&center=false&vCenter=true&repeat=false&cursor=false&width=180&height=40&lines=Connect+%F0%9F%A4%9D"><img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=180&height=40&lines=Connect+%F0%9F%A4%9D" alt="Connect" /></picture>
 
 <p align="left">
   <a href="https://linkedin.com/in/matthew-mulenga">
