@@ -12,14 +12,7 @@ applications; trusted resource for team leads and cross-team developers.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=145&height=40&lines=%F0%9F%94%AD+Building" alt="Building" />
-
-**[snyff](https://github.com/mmulenga/snyff)** — a webhook replay tool written in Go, for
-capturing and re-firing webhook payloads during local development and debugging.
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=145&height=40&lines=%F0%9F%9B%A0%EF%B8%8F+Tech" alt="Tech" />
+<img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=145&height=40&lines=Tech+%F0%9F%9B%A0%EF%B8%8F" alt="Tech" />
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-1A1A1A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -34,16 +27,16 @@ capturing and re-firing webhook payloads during local development and debugging.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=145&height=40&lines=%F0%9F%93%8A+Stats" alt="Stats" />
+<img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=145&height=40&lines=Stats+%F0%9F%93%8A" alt="Stats" />
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmulenga&theme=calm" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmulenga&theme=calm" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmulenga&theme=calm" alt="GitHub stats" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmulenga&theme=calm" alt="Top languages" height="150" />
 </p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=180&height=40&lines=%F0%9F%A4%9D+Connect" alt="Connect" />
+<img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=180&height=40&lines=Connect+%F0%9F%A4%9D" alt="Connect" />
 
 <p align="left">
   <a href="https://linkedin.com/in/matthew-mulenga">
