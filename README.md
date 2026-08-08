@@ -1,4 +1,3 @@
-<h1 align="left">Hi, I'm Matthew 👋</h1>
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&pause=1000&color=D97757&center=false&vCenter=true&width=440&lines=Software+Engineer;Go+enthusiast;Tinkering..." alt="Typing SVG" />
 </p>
