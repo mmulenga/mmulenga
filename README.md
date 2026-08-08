@@ -1,48 +1,50 @@
 <h1 align="left">Hi, I'm Matthew 👋</h1>
-<h3 align="left">Software Engineer</h3>
-
 <p align="left">
-Software Engineer with 6+ years experience building, owning, and maintaining mission-critical systems at the University of Saskatchewan. Progressed from UI maintenance and bug fixes to sole ownership of enterprise integrations, academic credential delivery infrastructure, and custom student system applications. Subject matter expert in university API systems and degree tracking applications; trusted resource for team leads and cross-team developers.
+  <img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&pause=1000&color=D97757&center=false&vCenter=true&width=440&lines=Software+Engineer;Go+enthusiast;Tinkering..." alt="Typing SVG" />
 </p>
+
+```text
+Software Engineer with 6+ years experience building, owning, and maintaining mission-critical
+systems at the University of Saskatchewan. Progressed from UI maintenance and bug fixes to sole
+ownership of enterprise integrations, academic credential delivery infrastructure, and custom
+student system applications. Subject matter expert in university API systems and degree tracking
+applications; trusted resource for team leads and cross-team developers.
+```
 
 <br>
 
-### 🔭 Currently building
+<img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=145&height=40&lines=%F0%9F%94%AD+Building" alt="Building" />
 
 **[snyff](https://github.com/mmulenga/snyff)** — a webhook replay tool written in Go, for
 capturing and re-firing webhook payloads during local development and debugging.
 
 <br>
 
-### 🛠️ Tech I work with
+<img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=145&height=40&lines=%F0%9F%9B%A0%EF%B8%8F+Tech" alt="Tech" />
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-1A1A1A?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-1A1A1A?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1A1A1A?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Oracle_SQL-1A1A1A?style=flat-square&logo=oracle&logoColor=white" alt="Oracle SQL" />
-  <img src="https://img.shields.io/badge/Git-1A1A1A?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-1A1A1A?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/RabbitMQ-1A1A1A?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Java-1A1A1A?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-1A1A1A?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Oracle_SQL-1A1A1A?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL" />
+  <img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/RabbitMQ-1A1A1A?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </p>
 
 <br>
 
-### 📊 Stats
+<img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=145&height=40&lines=%F0%9F%93%8A+Stats" alt="Stats" />
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmulenga&show_icons=true&hide_border=true&count_private=true&theme=default" alt="Matt's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmulenga&hide_border=true&theme=default" alt="Matt's GitHub streak" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmulenga&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmulenga&theme=calm" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmulenga&theme=calm" alt="Top languages" />
 </p>
 
 <br>
 
-### 🤝 Connect
+<img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&duration=1&pause=100000&color=D97757&center=false&vCenter=true&repeat=false&cursor=false&width=180&height=40&lines=%F0%9F%A4%9D+Connect" alt="Connect" />
 
 <p align="left">
   <a href="https://linkedin.com/in/matthew-mulenga">
