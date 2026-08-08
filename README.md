@@ -1,5 +1,5 @@
 <p align="left">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&pause=1000&color=2688A8&center=false&vCenter=true&width=440&lines=Software+Engineer;Go+enthusiast;Tinkering..."><img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&pause=1000&color=D97757&center=false&vCenter=true&width=440&lines=Software+Engineer;Go+enthusiast;Tinkering..." alt="Typing SVG" /></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&pause=1000&color=2688A8&center=false&vCenter=true&width=440&lines=Matthew+Mulenga;Software+Engineer;Go+enthusiast;Tinkering..."><img src="https://readme-typing-svg.demolab.com/?font=Martian+Mono&size=20&pause=1000&color=D97757&center=false&vCenter=true&width=440&lines=Matthew+Mulenga;Software+Engineer;Go+enthusiast;Tinkering..." alt="Typing SVG" /></picture>
 </p>
 
 ```text
