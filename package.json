@@ -1,0 +1,16 @@
+{
+  "name": "mmulenga-profile-assets",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Build-time generator for the self-hosted SVGs in this profile README.",
+  "scripts": {
+    "build": "node tools/generate.mjs"
+  },
+  "devDependencies": {
+    "@twemoji/svg": "^15.0.0",
+    "fontkit": "^2.0.4",
+    "simple-icons": "^16.28.0",
+    "subset-font": "^2.4.0"
+  }
+}
